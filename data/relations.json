@@ -1,0 +1,7757 @@
+[
+    {
+        "Entity 1": "Provided",
+        "Relation": "dobj",
+        "Entity 2": "attribution"
+    },
+    {
+        "Entity 1": "grants",
+        "Relation": "nsubj",
+        "Entity 2": "Google"
+    },
+    {
+        "Entity 1": "grants",
+        "Relation": "dobj",
+        "Entity 2": "permission"
+    },
+    {
+        "Entity 1": "reproduce",
+        "Relation": "dobj",
+        "Entity 2": "tables"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "paper"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "use"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "works"
+    },
+    {
+        "Entity 1": "Is",
+        "Relation": "nsubj",
+        "Entity 2": "Attention"
+    },
+    {
+        "Entity 1": "Need",
+        "Relation": "nsubj",
+        "Entity 2": "You"
+    },
+    {
+        "Entity 1": "Shazeer\u2217",
+        "Relation": "nsubj",
+        "Entity 2": "Noam"
+    },
+    {
+        "Entity 1": "Shazeer\u2217",
+        "Relation": "dobj",
+        "Entity 2": "Brain"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Toronto"
+    },
+    {
+        "Entity 1": "Kaiser\u2217",
+        "Relation": "nsubj",
+        "Entity 2": "\u0141ukasz"
+    },
+    {
+        "Entity 1": "Kaiser\u2217",
+        "Relation": "dobj",
+        "Entity 2": "Illia"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "networks"
+    },
+    {
+        "Entity 1": "include",
+        "Relation": "nsubj",
+        "Entity 2": "that"
+    },
+    {
+        "Entity 1": "include",
+        "Relation": "dobj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "connect",
+        "Relation": "nsubj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "connect",
+        "Relation": "dobj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "through",
+        "Relation": "pobj",
+        "Entity 2": "mechanism"
+    },
+    {
+        "Entity 1": "propose",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "propose",
+        "Relation": "dobj",
+        "Entity 2": "architecture"
+    },
+    {
+        "Entity 1": "architecture",
+        "Relation": "appos",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "mechanisms"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "recurrence"
+    },
+    {
+        "Entity 1": "show",
+        "Relation": "nsubj",
+        "Entity 2": "Experiments"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "show",
+        "Relation": "dobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "quality"
+    },
+    {
+        "Entity 1": "requiring",
+        "Relation": "dobj",
+        "Entity 2": "time"
+    },
+    {
+        "Entity 1": "achieves",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "achieves",
+        "Relation": "dobj",
+        "Entity 2": "BLEU"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "German"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "task"
+    },
+    {
+        "Entity 1": "over",
+        "Relation": "pobj",
+        "Entity 2": "results"
+    },
+    {
+        "Entity 1": "including",
+        "Relation": "pobj",
+        "Entity 2": "ensembles"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "BLEU"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "French"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "On",
+        "Relation": "pobj",
+        "Entity 2": "task"
+    },
+    {
+        "Entity 1": "establishes",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "art"
+    },
+    {
+        "Entity 1": "establishes",
+        "Relation": "dobj",
+        "Entity 2": "score"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "41.8"
+    },
+    {
+        "Entity 1": "after",
+        "Relation": "pobj",
+        "Entity 2": "training"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "days"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "GPUs"
+    },
+    {
+        "Entity 1": "GPUs",
+        "Relation": "appos",
+        "Entity 2": "fraction"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "costs"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "literature"
+    },
+    {
+        "Entity 1": "show",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "generalizes",
+        "Relation": "nsubj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "applying",
+        "Relation": "dobj",
+        "Entity 2": "it"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "constituency"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "data"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "order"
+    },
+    {
+        "Entity 1": "proposed",
+        "Relation": "nsubj",
+        "Entity 2": "Jakob"
+    },
+    {
+        "Entity 1": "replacing",
+        "Relation": "dobj",
+        "Entity 2": "RNNs"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "started",
+        "Relation": "dobj",
+        "Entity 2": "effort"
+    },
+    {
+        "Entity 1": "evaluate",
+        "Relation": "dobj",
+        "Entity 2": "idea"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "Illia"
+    },
+    {
+        "Entity 1": "implemented",
+        "Relation": "dobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "aspect"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "work"
+    },
+    {
+        "Entity 1": "proposed",
+        "Relation": "nsubj",
+        "Entity 2": "Noam"
+    },
+    {
+        "Entity 1": "proposed",
+        "Relation": "dobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "detail"
+    },
+    {
+        "Entity 1": "designed",
+        "Relation": "nsubj",
+        "Entity 2": "Niki"
+    },
+    {
+        "Entity 1": "evaluated",
+        "Relation": "dobj",
+        "Entity 2": "variants"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "codebase"
+    },
+    {
+        "Entity 1": "experimented",
+        "Relation": "nsubj",
+        "Entity 2": "Llion"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "variants"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "codebase"
+    },
+    {
+        "Entity 1": "spent",
+        "Relation": "nsubj",
+        "Entity 2": "Lukasz"
+    },
+    {
+        "Entity 1": "spent",
+        "Relation": "dobj",
+        "Entity 2": "days"
+    },
+    {
+        "Entity 1": "designing",
+        "Relation": "dobj",
+        "Entity 2": "parts"
+    },
+    {
+        "Entity 1": "implementing",
+        "Relation": "dobj",
+        "Entity 2": "tensor2tensor"
+    },
+    {
+        "Entity 1": "replacing",
+        "Relation": "dobj",
+        "Entity 2": "codebase"
+    },
+    {
+        "Entity 1": "improving",
+        "Relation": "dobj",
+        "Entity 2": "results"
+    },
+    {
+        "Entity 1": "accelerating",
+        "Relation": "dobj",
+        "Entity 2": "research"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "Brain"
+    },
+    {
+        "Entity 1": "performed",
+        "Relation": "nsubj",
+        "Entity 2": "\u2021Work"
+    },
+    {
+        "Entity 1": "performed",
+        "Relation": "dobj",
+        "Entity 2": "while"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "Research"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "Systems"
+    },
+    {
+        "Entity 1": "Systems",
+        "Relation": "appos",
+        "Entity 2": "NIPS"
+    },
+    {
+        "Entity 1": "Beach",
+        "Relation": "appos",
+        "Entity 2": "CA"
+    },
+    {
+        "Entity 1": "Beach",
+        "Relation": "appos",
+        "Entity 2": "USA"
+    },
+    {
+        "Entity 1": "CL",
+        "Relation": "appos",
+        "Entity 2": "Aug"
+    },
+    {
+        "Entity 1": "networks",
+        "Relation": "appos",
+        "Entity 2": "memory"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "state"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "approaches"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "modeling"
+    },
+    {
+        "Entity 1": "established",
+        "Relation": "dobj",
+        "Entity 2": "problems"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "modeling"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "pobj",
+        "Entity 2": "35"
+    },
+    {
+        "Entity 1": "35",
+        "Relation": "appos",
+        "Entity 2": "2"
+    },
+    {
+        "Entity 1": "35",
+        "Relation": "appos",
+        "Entity 2": "5"
+    },
+    {
+        "Entity 1": "continued",
+        "Relation": "nsubj",
+        "Entity 2": "efforts"
+    },
+    {
+        "Entity 1": "push",
+        "Relation": "dobj",
+        "Entity 2": "boundaries"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "pobj",
+        "Entity 2": "38"
+    },
+    {
+        "Entity 1": "38",
+        "Relation": "appos",
+        "Entity 2": "24"
+    },
+    {
+        "Entity 1": "38",
+        "Relation": "appos",
+        "Entity 2": "15"
+    },
+    {
+        "Entity 1": "computation",
+        "Relation": "nsubj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "pobj",
+        "Entity 2": "computation"
+    },
+    {
+        "Entity 1": "along",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "Aligning",
+        "Relation": "dobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "steps"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "time"
+    },
+    {
+        "Entity 1": "generate",
+        "Relation": "nsubj",
+        "Entity 2": "they"
+    },
+    {
+        "Entity 1": "generate",
+        "Relation": "dobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "ht"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "ht\u22121"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "precludes",
+        "Relation": "nsubj",
+        "Entity 2": "nature"
+    },
+    {
+        "Entity 1": "precludes",
+        "Relation": "dobj",
+        "Entity 2": "parallelization"
+    },
+    {
+        "Entity 1": "within",
+        "Relation": "pobj",
+        "Entity 2": "examples"
+    },
+    {
+        "Entity 1": "becomes",
+        "Relation": "nsubj",
+        "Entity 2": "which"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "lengths"
+    },
+    {
+        "Entity 1": "across",
+        "Relation": "pobj",
+        "Entity 2": "examples"
+    },
+    {
+        "Entity 1": "achieved",
+        "Relation": "nsubj",
+        "Entity 2": "work"
+    },
+    {
+        "Entity 1": "achieved",
+        "Relation": "dobj",
+        "Entity 2": "improvements"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "efficiency"
+    },
+    {
+        "Entity 1": "through",
+        "Relation": "pobj",
+        "Entity 2": "tricks"
+    },
+    {
+        "Entity 1": "achieved",
+        "Relation": "dobj",
+        "Entity 2": "computation"
+    },
+    {
+        "Entity 1": "improving",
+        "Relation": "dobj",
+        "Entity 2": "performance"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "case"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "latter"
+    },
+    {
+        "Entity 1": "remains",
+        "Relation": "nsubj",
+        "Entity 2": "constraint"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "computation"
+    },
+    {
+        "Entity 1": "become",
+        "Relation": "nsubj",
+        "Entity 2": "mechanisms"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "modeling"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "allowing",
+        "Relation": "dobj",
+        "Entity 2": "modeling"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "dependencies"
+    },
+    {
+        "Entity 1": "without",
+        "Relation": "pobj",
+        "Entity 2": "regard"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "distance"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "all"
+    },
+    {
+        "Entity 1": "but",
+        "Relation": "pobj",
+        "Entity 2": "cases"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "27"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "conjunction"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "network"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "work"
+    },
+    {
+        "Entity 1": "propose",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "propose",
+        "Relation": "dobj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "architecture"
+    },
+    {
+        "Entity 1": "eschewing",
+        "Relation": "dobj",
+        "Entity 2": "recurrence"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "mechanism"
+    },
+    {
+        "Entity 1": "draw",
+        "Relation": "dobj",
+        "Entity 2": "dependencies"
+    },
+    {
+        "Entity 1": "between",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "allows",
+        "Relation": "nsubj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "parallelization"
+    },
+    {
+        "Entity 1": "reach",
+        "Relation": "dobj",
+        "Entity 2": "state"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "art"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "quality"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "hours"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "GPUs"
+    },
+    {
+        "Entity 1": "forms",
+        "Relation": "nsubj",
+        "Entity 2": "goal"
+    },
+    {
+        "Entity 1": "reducing",
+        "Relation": "dobj",
+        "Entity 2": "computation"
+    },
+    {
+        "Entity 1": "forms",
+        "Relation": "dobj",
+        "Entity 2": "foundation"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "GPU"
+    },
+    {
+        "Entity 1": "forms",
+        "Relation": "dobj",
+        "Entity 2": "16"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "nsubj",
+        "Entity 2": "all"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "which"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "networks"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "block"
+    },
+    {
+        "Entity 1": "computing",
+        "Relation": "dobj",
+        "Entity 2": "representations"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "parallel"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "grows",
+        "Relation": "nsubj",
+        "Entity 2": "number"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "operations"
+    },
+    {
+        "Entity 1": "relate",
+        "Relation": "dobj",
+        "Entity 2": "signals"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "distance"
+    },
+    {
+        "Entity 1": "between",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "ConvS2S"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "ByteNet"
+    },
+    {
+        "Entity 1": "makes",
+        "Relation": "nsubj",
+        "Entity 2": "This"
+    },
+    {
+        "Entity 1": "difficult",
+        "Relation": "nsubj",
+        "Entity 2": "it"
+    },
+    {
+        "Entity 1": "learn",
+        "Relation": "dobj",
+        "Entity 2": "dependencies"
+    },
+    {
+        "Entity 1": "between",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "number"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "operations"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "cost"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "resolution"
+    },
+    {
+        "Entity 1": "averaging",
+        "Relation": "dobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "counteract",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "Attention"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "section"
+    },
+    {
+        "Entity 1": "called",
+        "Relation": "nsubj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "relating",
+        "Relation": "dobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "order"
+    },
+    {
+        "Entity 1": "compute",
+        "Relation": "dobj",
+        "Entity 2": "representation"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "variety"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "reading",
+        "Relation": "dobj",
+        "Entity 2": "comprehension"
+    },
+    {
+        "Entity 1": "learning",
+        "Relation": "dobj",
+        "Entity 2": "representations"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "pobj",
+        "Entity 2": "4"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "end"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "mechanism"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "question"
+    },
+    {
+        "Entity 1": "perform",
+        "Relation": "dobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "To",
+        "Relation": "pobj",
+        "Entity 2": "best"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "knowledge"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "compute",
+        "Relation": "dobj",
+        "Entity 2": "representations"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "using",
+        "Relation": "dobj",
+        "Entity 2": "RNNs"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "sections"
+    },
+    {
+        "Entity 1": "describe",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "describe",
+        "Relation": "dobj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "motivate",
+        "Relation": "dobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "discuss",
+        "Relation": "dobj",
+        "Entity 2": "advantages"
+    },
+    {
+        "Entity 1": "over",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "["
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "17"
+    },
+    {
+        "Entity 1": "have",
+        "Relation": "nsubj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "have",
+        "Relation": "dobj",
+        "Entity 2": "structure"
+    },
+    {
+        "Entity 1": "5",
+        "Relation": "appos",
+        "Entity 2": "2"
+    },
+    {
+        "Entity 1": "5",
+        "Relation": "appos",
+        "Entity 2": "35"
+    },
+    {
+        "Entity 1": "maps",
+        "Relation": "nsubj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "maps",
+        "Relation": "dobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "representations"
+    },
+    {
+        "Entity 1": "representations",
+        "Relation": "appos",
+        "Entity 2": "x1"
+    },
+    {
+        "Entity 1": "representations",
+        "Relation": "appos",
+        "Entity 2": "xn"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "representations"
+    },
+    {
+        "Entity 1": "maps",
+        "Relation": "dobj",
+        "Entity 2": "="
+    },
+    {
+        "Entity 1": "=",
+        "Relation": "appos",
+        "Entity 2": "z1"
+    },
+    {
+        "Entity 1": "Given",
+        "Relation": "pobj",
+        "Entity 2": "z"
+    },
+    {
+        "Entity 1": "generates",
+        "Relation": "nsubj",
+        "Entity 2": "decoder"
+    },
+    {
+        "Entity 1": "generates",
+        "Relation": "dobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "sequence",
+        "Relation": "appos",
+        "Entity 2": "y1"
+    },
+    {
+        "Entity 1": "y1",
+        "Relation": "appos",
+        "Entity 2": "ym"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "symbols"
+    },
+    {
+        "Entity 1": "sequence",
+        "Relation": "appos",
+        "Entity 2": "element"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "time"
+    },
+    {
+        "Entity 1": "At",
+        "Relation": "pobj",
+        "Entity 2": "step"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "consuming",
+        "Relation": "dobj",
+        "Entity 2": "symbols"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "generating",
+        "Relation": "dobj",
+        "Entity 2": "next"
+    },
+    {
+        "Entity 1": "Figure",
+        "Relation": "appos",
+        "Entity 2": "architecture"
+    },
+    {
+        "Entity 1": "follows",
+        "Relation": "nsubj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "follows",
+        "Relation": "dobj",
+        "Entity 2": "architecture"
+    },
+    {
+        "Entity 1": "using",
+        "Relation": "dobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "halves"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Figure"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "stack"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "nsubj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "dobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "dobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "dobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "first"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "second"
+    },
+    {
+        "Entity 1": "employ",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "employ",
+        "Relation": "dobj",
+        "Entity 2": "connection"
+    },
+    {
+        "Entity 1": "around",
+        "Relation": "pobj",
+        "Entity 2": "each"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "normalization"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "output"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "Sublayer(x"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "layer",
+        "Relation": "appos",
+        "Entity 2": "itself"
+    },
+    {
+        "Entity 1": "facilitate",
+        "Relation": "dobj",
+        "Entity 2": "connections"
+    },
+    {
+        "Entity 1": "produce",
+        "Relation": "nsubj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "sub",
+        "Relation": "nsubj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "produce",
+        "Relation": "nsubj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "produce",
+        "Relation": "dobj",
+        "Entity 2": "outputs"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "dmodel"
+    },
+    {
+        "Entity 1": "produce",
+        "Relation": "dobj",
+        "Entity 2": "="
+    },
+    {
+        "Entity 1": "produce",
+        "Relation": "dobj",
+        "Entity 2": "Decoder"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "stack"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "addition"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "inserts",
+        "Relation": "nsubj",
+        "Entity 2": "decoder"
+    },
+    {
+        "Entity 1": "inserts",
+        "Relation": "dobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "inserts",
+        "Relation": "dobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "inserts",
+        "Relation": "dobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "performs",
+        "Relation": "nsubj",
+        "Entity 2": "which"
+    },
+    {
+        "Entity 1": "performs",
+        "Relation": "dobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "over",
+        "Relation": "pobj",
+        "Entity 2": "output"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "stack"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "employ",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "employ",
+        "Relation": "dobj",
+        "Entity 2": "connections"
+    },
+    {
+        "Entity 1": "around",
+        "Relation": "pobj",
+        "Entity 2": "each"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "normalization"
+    },
+    {
+        "Entity 1": "modify",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "modify",
+        "Relation": "dobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "modify",
+        "Relation": "dobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "modify",
+        "Relation": "dobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "stack"
+    },
+    {
+        "Entity 1": "prevent",
+        "Relation": "dobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "ensures",
+        "Relation": "nsubj",
+        "Entity 2": "masking"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "fact"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "depend",
+        "Relation": "nsubj",
+        "Entity 2": "i"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "outputs"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "mapping"
+    },
+    {
+        "Entity 1": "mapping",
+        "Relation": "dobj",
+        "Entity 2": "query"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "pairs"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "output"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "query"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "sum"
+    },
+    {
+        "Entity 1": "sum",
+        "Relation": "appos",
+        "Entity 2": "Figure"
+    },
+    {
+        "Entity 1": "left",
+        "Relation": "dobj",
+        "Entity 2": "Attention"
+    },
+    {
+        "Entity 1": "consists",
+        "Relation": "nsubj",
+        "Entity 2": "Attention"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "parallel"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "value"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "query"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "key"
+    },
+    {
+        "Entity 1": "3.2.1",
+        "Relation": "dobj",
+        "Entity 2": "Attention"
+    },
+    {
+        "Entity 1": "call",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "call",
+        "Relation": "dobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "attention",
+        "Relation": "appos",
+        "Entity 2": "Attention"
+    },
+    {
+        "Entity 1": "attention",
+        "Relation": "appos",
+        "Entity 2": "Figure"
+    },
+    {
+        "Entity 1": "consists",
+        "Relation": "nsubj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "queries"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "dk"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "dimension"
+    },
+    {
+        "Entity 1": "consists",
+        "Relation": "dobj",
+        "Entity 2": "dv"
+    },
+    {
+        "Entity 1": "compute",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "compute",
+        "Relation": "dobj",
+        "Entity 2": "products"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "query"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "keys"
+    },
+    {
+        "Entity 1": "divide",
+        "Relation": "dobj",
+        "Entity 2": "each"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "\u221adk"
+    },
+    {
+        "Entity 1": "apply",
+        "Relation": "dobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "obtain",
+        "Relation": "dobj",
+        "Entity 2": "weights"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "practice"
+    },
+    {
+        "Entity 1": "compute",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "compute",
+        "Relation": "dobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "set"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "queries"
+    },
+    {
+        "Entity 1": "into",
+        "Relation": "pobj",
+        "Entity 2": "matrix"
+    },
+    {
+        "Entity 1": "into",
+        "Relation": "pobj",
+        "Entity 2": "K"
+    },
+    {
+        "Entity 1": "compute",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "compute",
+        "Relation": "dobj",
+        "Entity 2": "matrix"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "outputs"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "Attention(Q"
+    },
+    {
+        "Entity 1": "Attention(Q",
+        "Relation": "appos",
+        "Entity 2": "V"
+    },
+    {
+        "Entity 1": "=",
+        "Relation": "dobj",
+        "Entity 2": "\u221adk"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "V"
+    },
+    {
+        "Entity 1": "V",
+        "Relation": "appos",
+        "Entity 2": "1"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "functions"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "algorithm"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "factor"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "1"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "\u221adk"
+    },
+    {
+        "Entity 1": "computes",
+        "Relation": "nsubj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "computes",
+        "Relation": "dobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "using",
+        "Relation": "dobj",
+        "Entity 2": "network"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "two"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "complexity"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "practice"
+    },
+    {
+        "Entity 1": "using",
+        "Relation": "dobj",
+        "Entity 2": "code"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "dk"
+    },
+    {
+        "Entity 1": "perform",
+        "Relation": "nsubj",
+        "Entity 2": "mechanisms"
+    },
+    {
+        "Entity 1": "perform",
+        "Relation": "dobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "dk"
+    },
+    {
+        "Entity 1": "suspect",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "dk"
+    },
+    {
+        "Entity 1": "grow",
+        "Relation": "nsubj",
+        "Entity 2": "products"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "magnitude"
+    },
+    {
+        "Entity 1": "pushing",
+        "Relation": "dobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "into",
+        "Relation": "pobj",
+        "Entity 2": "regions"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "nsubj",
+        "Entity 2": "it"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "dobj",
+        "Entity 2": "gradients"
+    },
+    {
+        "Entity 1": "counteract",
+        "Relation": "dobj",
+        "Entity 2": "effect"
+    },
+    {
+        "Entity 1": "scale",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "scale",
+        "Relation": "dobj",
+        "Entity 2": "products"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "1"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "\u221adk"
+    },
+    {
+        "Entity 1": "performing",
+        "Relation": "dobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "keys"
+    },
+    {
+        "Entity 1": "found",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "beneficial",
+        "Relation": "nsubj",
+        "Entity 2": "it"
+    },
+    {
+        "Entity 1": "project",
+        "Relation": "dobj",
+        "Entity 2": "queries"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "different"
+    },
+    {
+        "Entity 1": "learned",
+        "Relation": "dobj",
+        "Entity 2": "projections"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "dk"
+    },
+    {
+        "Entity 1": "learned",
+        "Relation": "nsubj",
+        "Entity 2": "dimensions"
+    },
+    {
+        "Entity 1": "On",
+        "Relation": "pobj",
+        "Entity 2": "each"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "versions"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "queries"
+    },
+    {
+        "Entity 1": "perform",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "perform",
+        "Relation": "dobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "parallel"
+    },
+    {
+        "Entity 1": "illustrate",
+        "Relation": "nsubj",
+        "Entity 2": "4To"
+    },
+    {
+        "Entity 1": "get",
+        "Relation": "nsubj",
+        "Entity 2": "products"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "components"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "q"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "mean"
+    },
+    {
+        "Entity 1": "mean",
+        "Relation": "nsubj",
+        "Entity 2": "product"
+    },
+    {
+        "Entity 1": "product",
+        "Relation": "appos",
+        "Entity 2": "qiki"
+    },
+    {
+        "Entity 1": "mean",
+        "Relation": "dobj",
+        "Entity 2": "0"
+    },
+    {
+        "Entity 1": "mean",
+        "Relation": "dobj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Figure"
+    },
+    {
+        "Entity 1": "allows",
+        "Relation": "nsubj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "attend",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "information"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "subspaces"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "With",
+        "Relation": "pobj",
+        "Entity 2": "head"
+    },
+    {
+        "Entity 1": "averaging",
+        "Relation": "dobj",
+        "Entity 2": "inhibits"
+    },
+    {
+        "Entity 1": "inhibits",
+        "Relation": "dobj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "=",
+        "Relation": "nsubj",
+        "Entity 2": "MultiHead(Q"
+    },
+    {
+        "Entity 1": "MultiHead(Q",
+        "Relation": "appos",
+        "Entity 2": "Concat(head1"
+    },
+    {
+        "Entity 1": "MultiHead(Q",
+        "Relation": "appos",
+        "Entity 2": "headi"
+    },
+    {
+        "Entity 1": "=",
+        "Relation": "dobj",
+        "Entity 2": "i"
+    },
+    {
+        "Entity 1": "i",
+        "Relation": "appos",
+        "Entity 2": "i"
+    },
+    {
+        "Entity 1": "i",
+        "Relation": "appos",
+        "Entity 2": "V"
+    },
+    {
+        "Entity 1": "i",
+        "Relation": "appos",
+        "Entity 2": "i"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "projections"
+    },
+    {
+        "Entity 1": "matrices",
+        "Relation": "appos",
+        "Entity 2": "Q"
+    },
+    {
+        "Entity 1": "matrices",
+        "Relation": "appos",
+        "Entity 2": "i"
+    },
+    {
+        "Entity 1": "matrices",
+        "Relation": "appos",
+        "Entity 2": "\u2208Rdmodel\u00d7dk"
+    },
+    {
+        "Entity 1": "K",
+        "Relation": "appos",
+        "Entity 2": "i"
+    },
+    {
+        "Entity 1": "K",
+        "Relation": "appos",
+        "Entity 2": "\u2208Rdmodel\u00d7dk"
+    },
+    {
+        "Entity 1": "V",
+        "Relation": "appos",
+        "Entity 2": "i"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "work"
+    },
+    {
+        "Entity 1": "employ",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "=",
+        "Relation": "nsubj",
+        "Entity 2": "h"
+    },
+    {
+        "Entity 1": "For",
+        "Relation": "pobj",
+        "Entity 2": "each"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "these"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "h"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "="
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "64"
+    },
+    {
+        "Entity 1": "Due",
+        "Relation": "pobj",
+        "Entity 2": "dimension"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "head"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "cost"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "that"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "dimensionality"
+    },
+    {
+        "Entity 1": "uses",
+        "Relation": "nsubj",
+        "Entity 2": "Applications"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Attention"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "uses",
+        "Relation": "dobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "ways"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "come",
+        "Relation": "nsubj",
+        "Entity 2": "queries"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "come",
+        "Relation": "nsubj",
+        "Entity 2": "keys"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "output"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "allows",
+        "Relation": "nsubj",
+        "Entity 2": "This"
+    },
+    {
+        "Entity 1": "attend",
+        "Relation": "nsubj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "decoder"
+    },
+    {
+        "Entity 1": "over",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "mimics",
+        "Relation": "nsubj",
+        "Entity 2": "This"
+    },
+    {
+        "Entity 1": "mimics",
+        "Relation": "dobj",
+        "Entity 2": "mechanisms"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "["
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "38"
+    },
+    {
+        "Entity 1": "38",
+        "Relation": "appos",
+        "Entity 2": "2"
+    },
+    {
+        "Entity 1": "38",
+        "Relation": "appos",
+        "Entity 2": "9"
+    },
+    {
+        "Entity 1": "contains",
+        "Relation": "nsubj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "contains",
+        "Relation": "dobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "come",
+        "Relation": "nsubj",
+        "Entity 2": "all"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "keys"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "place"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "case"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "attend",
+        "Relation": "nsubj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "allow",
+        "Relation": "nsubj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "decoder"
+    },
+    {
+        "Entity 1": "attend",
+        "Relation": "nsubj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "decoder"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "decoder"
+    },
+    {
+        "Entity 1": "including",
+        "Relation": "pobj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "need",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "prevent",
+        "Relation": "dobj",
+        "Entity 2": "flow"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "decoder"
+    },
+    {
+        "Entity 1": "preserve",
+        "Relation": "dobj",
+        "Entity 2": "property"
+    },
+    {
+        "Entity 1": "implement",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "implement",
+        "Relation": "dobj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "\u2212\u221e"
+    },
+    {
+        "Entity 1": "implement",
+        "Relation": "dobj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "softmax"
+    },
+    {
+        "Entity 1": "correspond",
+        "Relation": "nsubj",
+        "Entity 2": "which"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "connections"
+    },
+    {
+        "Entity 1": "See",
+        "Relation": "dobj",
+        "Entity 2": "Figure"
+    },
+    {
+        "Entity 1": "See",
+        "Relation": "dobj",
+        "Entity 2": "Networks"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "addition"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "contains",
+        "Relation": "nsubj",
+        "Entity 2": "each"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "contains",
+        "Relation": "dobj",
+        "Entity 2": "network"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "consists",
+        "Relation": "nsubj",
+        "Entity 2": "This"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "transformations"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "activation"
+    },
+    {
+        "Entity 1": "consists",
+        "Relation": "dobj",
+        "Entity 2": "FFN(x"
+    },
+    {
+        "Entity 1": "b2",
+        "Relation": "appos",
+        "Entity 2": "2"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "transformations"
+    },
+    {
+        "Entity 1": "across",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "nsubj",
+        "Entity 2": "they"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "parameters"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "way"
+    },
+    {
+        "Entity 1": "describing",
+        "Relation": "dobj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "convolutions"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "size"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "dimensionality"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "nsubj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "dobj",
+        "Entity 2": "="
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "learned",
+        "Relation": "dobj",
+        "Entity 2": "embeddings"
+    },
+    {
+        "Entity 1": "convert",
+        "Relation": "dobj",
+        "Entity 2": "tokens"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "vectors"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "dmodel"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "convert",
+        "Relation": "dobj",
+        "Entity 2": "output"
+    },
+    {
+        "Entity 1": "predicted",
+        "Relation": "dobj",
+        "Entity 2": "probabilities"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "share",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "share",
+        "Relation": "dobj",
+        "Entity 2": "matrix"
+    },
+    {
+        "Entity 1": "between",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "["
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "30"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "multiply",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "multiply",
+        "Relation": "dobj",
+        "Entity 2": "weights"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "\u221admodel"
+    },
+    {
+        "Entity 1": "Table",
+        "Relation": "appos",
+        "Entity 2": "lengths"
+    },
+    {
+        "Entity 1": "per",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "operations"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "types"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "d"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "k"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "convolutions"
+    },
+    {
+        "Entity 1": "r",
+        "Relation": "dobj",
+        "Entity 2": "size"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "neighborhood"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "per",
+        "Relation": "pobj",
+        "Entity 2": "Operations"
+    },
+    {
+        "Entity 1": "Operations",
+        "Relation": "appos",
+        "Entity 2": "Attention"
+    },
+    {
+        "Entity 1": "Complexity",
+        "Relation": "appos",
+        "Entity 2": "d"
+    },
+    {
+        "Entity 1": "Complexity",
+        "Relation": "appos",
+        "Entity 2": "O(1"
+    },
+    {
+        "Entity 1": "Complexity",
+        "Relation": "appos",
+        "Entity 2": "O(1"
+    },
+    {
+        "Entity 1": "d2",
+        "Relation": "appos",
+        "Entity 2": "O(n"
+    },
+    {
+        "Entity 1": "d2",
+        "Relation": "appos",
+        "Entity 2": "O(n"
+    },
+    {
+        "Entity 1": "inject",
+        "Relation": "nsubj",
+        "Entity 2": "O(k"
+    },
+    {
+        "Entity 1": "O(k",
+        "Relation": "appos",
+        "Entity 2": "O(1"
+    },
+    {
+        "Entity 1": "O(k",
+        "Relation": "appos",
+        "Entity 2": "O(logk(n"
+    },
+    {
+        "Entity 1": "O(k",
+        "Relation": "appos",
+        "Entity 2": "Attention"
+    },
+    {
+        "Entity 1": "Attention",
+        "Relation": "appos",
+        "Entity 2": "restricted"
+    },
+    {
+        "Entity 1": "O(k",
+        "Relation": "appos",
+        "Entity 2": "n"
+    },
+    {
+        "Entity 1": "O(k",
+        "Relation": "appos",
+        "Entity 2": "O(1"
+    },
+    {
+        "Entity 1": "O(k",
+        "Relation": "appos",
+        "Entity 2": "r"
+    },
+    {
+        "Entity 1": "O(k",
+        "Relation": "appos",
+        "Entity 2": "Encoding"
+    },
+    {
+        "Entity 1": "contains",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "contains",
+        "Relation": "dobj",
+        "Entity 2": "recurrence"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "order"
+    },
+    {
+        "Entity 1": "make",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "make",
+        "Relation": "dobj",
+        "Entity 2": "use"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "order"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "inject",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "inject",
+        "Relation": "dobj",
+        "Entity 2": "information"
+    },
+    {
+        "Entity 1": "about",
+        "Relation": "pobj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "tokens"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "To",
+        "Relation": "pobj",
+        "Entity 2": "end"
+    },
+    {
+        "Entity 1": "add",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "add",
+        "Relation": "dobj",
+        "Entity 2": "encodings"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "embeddings"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "bottoms"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "stacks"
+    },
+    {
+        "Entity 1": "have",
+        "Relation": "nsubj",
+        "Entity 2": "encodings"
+    },
+    {
+        "Entity 1": "have",
+        "Relation": "dobj",
+        "Entity 2": "dmodel"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "embeddings"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "encodings"
+    },
+    {
+        "Entity 1": "fixed",
+        "Relation": "dobj",
+        "Entity 2": "9"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "work"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "sine"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "frequencies"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "PE(pos,2i"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "PE(pos,2i+1"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "pos"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "i"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "corresponds"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "sinusoid"
+    },
+    {
+        "Entity 1": "form",
+        "Relation": "nsubj",
+        "Entity 2": "wavelengths"
+    },
+    {
+        "Entity 1": "form",
+        "Relation": "dobj",
+        "Entity 2": "progression"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "2\u03c0"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "10000"
+    },
+    {
+        "Entity 1": "form",
+        "Relation": "dobj",
+        "Entity 2": "2\u03c0"
+    },
+    {
+        "Entity 1": "chose",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "chose",
+        "Relation": "dobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "hypothesized",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "allow",
+        "Relation": "nsubj",
+        "Entity 2": "it"
+    },
+    {
+        "Entity 1": "learn",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "k"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "PEpos"
+    },
+    {
+        "Entity 1": "experimented",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "using",
+        "Relation": "dobj",
+        "Entity 2": "embeddings"
+    },
+    {
+        "Entity 1": "experimented",
+        "Relation": "dobj",
+        "Entity 2": "9"
+    },
+    {
+        "Entity 1": "produced",
+        "Relation": "nsubj",
+        "Entity 2": "versions"
+    },
+    {
+        "Entity 1": "produced",
+        "Relation": "dobj",
+        "Entity 2": "results"
+    },
+    {
+        "Entity 1": "row",
+        "Relation": "nsubj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "see",
+        "Relation": "dobj",
+        "Entity 2": "row"
+    },
+    {
+        "Entity 1": "row",
+        "Relation": "appos",
+        "Entity 2": "E"
+    },
+    {
+        "Entity 1": "chose",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "chose",
+        "Relation": "dobj",
+        "Entity 2": "version"
+    },
+    {
+        "Entity 1": "allow",
+        "Relation": "nsubj",
+        "Entity 2": "it"
+    },
+    {
+        "Entity 1": "extrapolate",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "sequence",
+        "Relation": "dobj",
+        "Entity 2": "lengths"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "ones"
+    },
+    {
+        "Entity 1": "during",
+        "Relation": "pobj",
+        "Entity 2": "training"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "section"
+    },
+    {
+        "Entity 1": "compare",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "compare",
+        "Relation": "dobj",
+        "Entity 2": "aspects"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "mapping",
+        "Relation": "dobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "representations"
+    },
+    {
+        "Entity 1": "representations",
+        "Relation": "appos",
+        "Entity 2": "x1"
+    },
+    {
+        "Entity 1": "representations",
+        "Relation": "appos",
+        "Entity 2": "xn"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "length",
+        "Relation": "appos",
+        "Entity 2": "z1"
+    },
+    {
+        "Entity 1": "z1",
+        "Relation": "appos",
+        "Entity 2": "zn"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "\u2208Rd"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "sequence",
+        "Relation": "appos",
+        "Entity 2": "encoder"
+    },
+    {
+        "Entity 1": "Motivating",
+        "Relation": "dobj",
+        "Entity 2": "use"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "consider",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "consider",
+        "Relation": "dobj",
+        "Entity 2": "desiderata"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "One"
+    },
+    {
+        "Entity 1": "per",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "Another"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "computation"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "number"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "operations"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "third"
+    },
+    {
+        "Entity 1": "between",
+        "Relation": "pobj",
+        "Entity 2": "dependencies"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "network"
+    },
+    {
+        "Entity 1": "Learning",
+        "Relation": "dobj",
+        "Entity 2": "dependencies"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "factor"
+    },
+    {
+        "Entity 1": "affecting",
+        "Relation": "dobj",
+        "Entity 2": "ability"
+    },
+    {
+        "Entity 1": "learn",
+        "Relation": "dobj",
+        "Entity 2": "dependencies"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "paths"
+    },
+    {
+        "Entity 1": "have",
+        "Relation": "nsubj",
+        "Entity 2": "signals"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "network"
+    },
+    {
+        "Entity 1": "between",
+        "Relation": "pobj",
+        "Entity 2": "combination"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "it"
+    },
+    {
+        "Entity 1": "learn",
+        "Relation": "dobj",
+        "Entity 2": "dependencies"
+    },
+    {
+        "Entity 1": "compare",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "compare",
+        "Relation": "dobj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "between",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "networks"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "types"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "connects",
+        "Relation": "nsubj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "connects",
+        "Relation": "dobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "number"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "operations"
+    },
+    {
+        "Entity 1": "requires",
+        "Relation": "nsubj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "requires",
+        "Relation": "dobj",
+        "Entity 2": "operations"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "terms"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "complexity"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "sequence",
+        "Relation": "appos",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "dimensionality"
+    },
+    {
+        "Entity 1": "dimensionality",
+        "Relation": "appos",
+        "Entity 2": "d"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "which"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "representations"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "art"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "translations"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "piece"
+    },
+    {
+        "Entity 1": "piece",
+        "Relation": "appos",
+        "Entity 2": "38"
+    },
+    {
+        "Entity 1": "improve",
+        "Relation": "dobj",
+        "Entity 2": "performance"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "involving",
+        "Relation": "dobj",
+        "Entity 2": "sequences"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "size"
+    },
+    {
+        "Entity 1": "considering",
+        "Relation": "dobj",
+        "Entity 2": "r"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "around",
+        "Relation": "pobj",
+        "Entity 2": "position"
+    },
+    {
+        "Entity 1": "increase",
+        "Relation": "nsubj",
+        "Entity 2": "This"
+    },
+    {
+        "Entity 1": "increase",
+        "Relation": "dobj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "O(n"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "r"
+    },
+    {
+        "Entity 1": "plan",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "investigate",
+        "Relation": "dobj",
+        "Entity 2": "approach"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "work"
+    },
+    {
+        "Entity 1": "connect",
+        "Relation": "nsubj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "width"
+    },
+    {
+        "Entity 1": "layer",
+        "Relation": "appos",
+        "Entity 2": "n"
+    },
+    {
+        "Entity 1": "connect",
+        "Relation": "dobj",
+        "Entity 2": "pairs"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "requires",
+        "Relation": "dobj",
+        "Entity 2": "stack"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "k"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "case"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "kernels"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "case"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "convolutions"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "["
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "18"
+    },
+    {
+        "Entity 1": "increasing",
+        "Relation": "dobj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "paths"
+    },
+    {
+        "Entity 1": "between",
+        "Relation": "pobj",
+        "Entity 2": "positions"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "network"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "factor"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "convolutions"
+    },
+    {
+        "Entity 1": "decrease",
+        "Relation": "nsubj",
+        "Entity 2": "]"
+    },
+    {
+        "Entity 1": "decrease",
+        "Relation": "dobj",
+        "Entity 2": "complexity"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "O(k"
+    },
+    {
+        "Entity 1": "decrease",
+        "Relation": "dobj",
+        "Entity 2": "d2"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "n"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "complexity"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "convolution"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "combination"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "complexity",
+        "Relation": "appos",
+        "Entity 2": "approach"
+    },
+    {
+        "Entity 1": "take",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "take",
+        "Relation": "dobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "As",
+        "Relation": "pobj",
+        "Entity 2": "benefit"
+    },
+    {
+        "Entity 1": "yield",
+        "Relation": "nsubj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "yield",
+        "Relation": "dobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "inspect",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "inspect",
+        "Relation": "dobj",
+        "Entity 2": "distributions"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "discuss",
+        "Relation": "dobj",
+        "Entity 2": "examples"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "appendix"
+    },
+    {
+        "Entity 1": "learn",
+        "Relation": "nsubj",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "perform",
+        "Relation": "dobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "appear",
+        "Relation": "nsubj",
+        "Entity 2": "many"
+    },
+    {
+        "Entity 1": "exhibit",
+        "Relation": "dobj",
+        "Entity 2": "behavior"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "structure"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sentences"
+    },
+    {
+        "Entity 1": "describes",
+        "Relation": "nsubj",
+        "Entity 2": "section"
+    },
+    {
+        "Entity 1": "describes",
+        "Relation": "dobj",
+        "Entity 2": "regime"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "standard"
+    },
+    {
+        "Entity 1": "consisting",
+        "Relation": "nsubj",
+        "Entity 2": "dataset"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "pairs"
+    },
+    {
+        "Entity 1": "using",
+        "Relation": "dobj",
+        "Entity 2": "encoding"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "nsubj",
+        "Entity 2": "which"
+    },
+    {
+        "Entity 1": "has",
+        "Relation": "dobj",
+        "Entity 2": "vocabulary"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "tokens"
+    },
+    {
+        "Entity 1": "For",
+        "Relation": "pobj",
+        "Entity 2": "French"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "dataset"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sentences"
+    },
+    {
+        "Entity 1": "split",
+        "Relation": "dobj",
+        "Entity 2": "tokens"
+    },
+    {
+        "Entity 1": "into",
+        "Relation": "pobj",
+        "Entity 2": "vocabulary"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "38"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "contained",
+        "Relation": "nsubj",
+        "Entity 2": "batch"
+    },
+    {
+        "Entity 1": "contained",
+        "Relation": "dobj",
+        "Entity 2": "set"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "pairs"
+    },
+    {
+        "Entity 1": "containing",
+        "Relation": "dobj",
+        "Entity 2": "tokens"
+    },
+    {
+        "Entity 1": "contained",
+        "Relation": "dobj",
+        "Entity 2": "Hardware"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "dobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "machine"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "GPUs"
+    },
+    {
+        "Entity 1": "For",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "using",
+        "Relation": "dobj",
+        "Entity 2": "hyperparameters"
+    },
+    {
+        "Entity 1": "throughout",
+        "Relation": "pobj",
+        "Entity 2": "paper"
+    },
+    {
+        "Entity 1": "took",
+        "Relation": "nsubj",
+        "Entity 2": "step"
+    },
+    {
+        "Entity 1": "took",
+        "Relation": "dobj",
+        "Entity 2": "seconds"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "dobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "total"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "steps"
+    },
+    {
+        "Entity 1": "For",
+        "Relation": "pobj",
+        "Entity 2": "models,(described"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "line"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "table"
+    },
+    {
+        "Entity 1": "was",
+        "Relation": "nsubj",
+        "Entity 2": "time"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "steps"
+    },
+    {
+        "Entity 1": "steps",
+        "Relation": "appos",
+        "Entity 2": "days"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "optimizer"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "20"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "\u03b21"
+    },
+    {
+        "Entity 1": "0.9",
+        "Relation": "appos",
+        "Entity 2": "0.98"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "10\u22129"
+    },
+    {
+        "Entity 1": "varied",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "varied",
+        "Relation": "dobj",
+        "Entity 2": "rate"
+    },
+    {
+        "Entity 1": "over",
+        "Relation": "pobj",
+        "Entity 2": "course"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "training"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "formula"
+    },
+    {
+        "Entity 1": "lrate",
+        "Relation": "dobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "warmup_steps\u22121.5",
+        "Relation": "nsubj",
+        "Entity 2": "step_num"
+    },
+    {
+        "Entity 1": "min(step_num\u22120.5",
+        "Relation": "appos",
+        "Entity 2": "3"
+    },
+    {
+        "Entity 1": "corresponds",
+        "Relation": "nsubj",
+        "Entity 2": "This"
+    },
+    {
+        "Entity 1": "increasing",
+        "Relation": "dobj",
+        "Entity 2": "rate"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "steps"
+    },
+    {
+        "Entity 1": "decreasing",
+        "Relation": "dobj",
+        "Entity 2": "it"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "root"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "number"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "warmup_steps"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "4000"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "Regularization"
+    },
+    {
+        "Entity 1": "employ",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "employ",
+        "Relation": "dobj",
+        "Entity 2": "types"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "regularization"
+    },
+    {
+        "Entity 1": "during",
+        "Relation": "pobj",
+        "Entity 2": "training"
+    },
+    {
+        "Entity 1": "Regularization",
+        "Relation": "appos",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "achieves",
+        "Relation": "nsubj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "achieves",
+        "Relation": "dobj",
+        "Entity 2": "scores"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "art"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "German"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "French"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "tests"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "fraction"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "cost"
+    },
+    {
+        "Entity 1": "Cost",
+        "Relation": "appos",
+        "Entity 2": "FLOPs"
+    },
+    {
+        "Entity 1": "EN",
+        "Relation": "pobj",
+        "Entity 2": "DE"
+    },
+    {
+        "Entity 1": "EN",
+        "Relation": "pobj",
+        "Entity 2": "DE"
+    },
+    {
+        "Entity 1": "FLOPs",
+        "Relation": "appos",
+        "Entity 2": "FR"
+    },
+    {
+        "Entity 1": "18",
+        "Relation": "appos",
+        "Entity 2": "Att"
+    },
+    {
+        "Entity 1": "2.3",
+        "Relation": "appos",
+        "Entity 2": "1020"
+    },
+    {
+        "Entity 1": "ConvS2S",
+        "Relation": "appos",
+        "Entity 2": "9"
+    },
+    {
+        "Entity 1": "2.0",
+        "Relation": "appos",
+        "Entity 2": "1.2"
+    },
+    {
+        "Entity 1": "1.2",
+        "Relation": "appos",
+        "Entity 2": "Att"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "appos",
+        "Entity 2": "8.0"
+    },
+    {
+        "Entity 1": "8.0",
+        "Relation": "appos",
+        "Entity 2": "GNMT"
+    },
+    {
+        "Entity 1": "8.0",
+        "Relation": "appos",
+        "Entity 2": "Ensemble"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "appos",
+        "Entity 2": "38"
+    },
+    {
+        "Entity 1": "38",
+        "Relation": "appos",
+        "Entity 2": "1.8"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "3.3"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "28.4"
+    },
+    {
+        "Entity 1": "Ensemble",
+        "Relation": "appos",
+        "Entity 2": "2.3"
+    },
+    {
+        "Entity 1": "2.3",
+        "Relation": "appos",
+        "Entity 2": "Dropout"
+    },
+    {
+        "Entity 1": "apply",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "apply",
+        "Relation": "dobj",
+        "Entity 2": "dropout"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "output"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sub"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "-"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "addition"
+    },
+    {
+        "Entity 1": "apply",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "apply",
+        "Relation": "dobj",
+        "Entity 2": "dropout"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "sums"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "embeddings"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "stacks"
+    },
+    {
+        "Entity 1": "For",
+        "Relation": "pobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "rate"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Pdrop"
+    },
+    {
+        "Entity 1": "use",
+        "Relation": "dobj",
+        "Entity 2": "Smoothing"
+    },
+    {
+        "Entity 1": "During",
+        "Relation": "pobj",
+        "Entity 2": "training"
+    },
+    {
+        "Entity 1": "employed",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "employed",
+        "Relation": "dobj",
+        "Entity 2": "smoothing"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "\u03f5ls"
+    },
+    {
+        "Entity 1": "hurts",
+        "Relation": "nsubj",
+        "Entity 2": "This"
+    },
+    {
+        "Entity 1": "hurts",
+        "Relation": "dobj",
+        "Entity 2": "perplexity"
+    },
+    {
+        "Entity 1": "learns",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "improves",
+        "Relation": "dobj",
+        "Entity 2": "accuracy"
+    },
+    {
+        "Entity 1": "outperforms",
+        "Relation": "nsubj",
+        "Entity 2": "Results"
+    },
+    {
+        "Entity 1": "Results",
+        "Relation": "appos",
+        "Entity 2": "Translation"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "German"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "On",
+        "Relation": "pobj",
+        "Entity 2": "task"
+    },
+    {
+        "Entity 1": "Results",
+        "Relation": "appos",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "model",
+        "Relation": "appos",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "outperforms",
+        "Relation": "dobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "including",
+        "Relation": "pobj",
+        "Entity 2": "ensembles"
+    },
+    {
+        "Entity 1": "by",
+        "Relation": "pobj",
+        "Entity 2": "BLEU"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "art"
+    },
+    {
+        "Entity 1": "establishing",
+        "Relation": "dobj",
+        "Entity 2": "score"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "28.4"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "line"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "took",
+        "Relation": "nsubj",
+        "Entity 2": "Training"
+    },
+    {
+        "Entity 1": "took",
+        "Relation": "dobj",
+        "Entity 2": "days"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "GPUs"
+    },
+    {
+        "Entity 1": "surpasses",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "surpasses",
+        "Relation": "dobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "fraction"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "cost"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "any"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "French"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "On",
+        "Relation": "pobj",
+        "Entity 2": "task"
+    },
+    {
+        "Entity 1": "achieves",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "achieves",
+        "Relation": "dobj",
+        "Entity 2": "score"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "41.0"
+    },
+    {
+        "Entity 1": "outperforming",
+        "Relation": "dobj",
+        "Entity 2": "all"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "cost"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "art"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "English"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "French"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "rate"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "="
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "0.1"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "0.3"
+    },
+    {
+        "Entity 1": "For",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "averaging",
+        "Relation": "dobj",
+        "Entity 2": "checkpoints"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "intervals"
+    },
+    {
+        "Entity 1": "For",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "averaged",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "averaged",
+        "Relation": "dobj",
+        "Entity 2": "checkpoints"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "search"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "size"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "penalty"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "appos",
+        "Entity 2": "38"
+    },
+    {
+        "Entity 1": "after",
+        "Relation": "pobj",
+        "Entity 2": "experimentation"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "set"
+    },
+    {
+        "Entity 1": "set",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "set",
+        "Relation": "dobj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "during",
+        "Relation": "pobj",
+        "Entity 2": "inference"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "summarizes",
+        "Relation": "nsubj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "summarizes",
+        "Relation": "dobj",
+        "Entity 2": "results"
+    },
+    {
+        "Entity 1": "compares",
+        "Relation": "dobj",
+        "Entity 2": "costs"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "literature"
+    },
+    {
+        "Entity 1": "estimate",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "estimate",
+        "Relation": "dobj",
+        "Entity 2": "number"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "operations"
+    },
+    {
+        "Entity 1": "train",
+        "Relation": "dobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "multiplying",
+        "Relation": "dobj",
+        "Entity 2": "time"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "number"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "GPUs"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "capacity"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "GPU"
+    },
+    {
+        "Entity 1": "estimate",
+        "Relation": "appos",
+        "Entity 2": "Variations"
+    },
+    {
+        "Entity 1": "evaluate",
+        "Relation": "dobj",
+        "Entity 2": "importance"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "components"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "varied",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "varied",
+        "Relation": "dobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "ways"
+    },
+    {
+        "Entity 1": "measuring",
+        "Relation": "dobj",
+        "Entity 2": "change"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "performance"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "German"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "5We"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "2.8"
+    },
+    {
+        "Entity 1": "2.8",
+        "Relation": "appos",
+        "Entity 2": "TFLOPS"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "K80"
+    },
+    {
+        "Entity 1": "varied",
+        "Relation": "dobj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "Table",
+        "Relation": "appos",
+        "Entity 2": "Variations"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "architecture"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "values"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "those"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "metrics"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "German"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "set"
+    },
+    {
+        "Entity 1": "set",
+        "Relation": "appos",
+        "Entity 2": "newstest2013"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "perplexities"
+    },
+    {
+        "Entity 1": "per",
+        "Relation": "pobj",
+        "Entity 2": "wordpiece"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "encoding"
+    },
+    {
+        "Entity 1": "per",
+        "Relation": "pobj",
+        "Entity 2": "word"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "perplexities"
+    },
+    {
+        "Entity 1": "N",
+        "Relation": "appos",
+        "Entity 2": "h"
+    },
+    {
+        "Entity 1": "steps",
+        "Relation": "nsubj",
+        "Entity 2": "params"
+    },
+    {
+        "Entity 1": "steps",
+        "Relation": "appos",
+        "Entity 2": "dev"
+    },
+    {
+        "Entity 1": "steps",
+        "Relation": "appos",
+        "Entity 2": "base"
+    },
+    {
+        "Entity 1": "steps",
+        "Relation": "dobj",
+        "Entity 2": "100"
+    },
+    {
+        "Entity 1": "steps",
+        "Relation": "appos",
+        "Entity 2": "65"
+    },
+    {
+        "Entity 1": "65",
+        "Relation": "appos",
+        "Entity 2": "A"
+    },
+    {
+        "Entity 1": "steps",
+        "Relation": "appos",
+        "Entity 2": "32"
+    },
+    {
+        "Entity 1": "32",
+        "Relation": "appos",
+        "Entity 2": "16"
+    },
+    {
+        "Entity 1": "32",
+        "Relation": "appos",
+        "Entity 2": "B"
+    },
+    {
+        "Entity 1": "B",
+        "Relation": "appos",
+        "Entity 2": "5.16"
+    },
+    {
+        "Entity 1": "58",
+        "Relation": "appos",
+        "Entity 2": "60"
+    },
+    {
+        "Entity 1": "60",
+        "Relation": "appos",
+        "Entity 2": "C"
+    },
+    {
+        "Entity 1": "58",
+        "Relation": "appos",
+        "Entity 2": "6.11"
+    },
+    {
+        "Entity 1": "50",
+        "Relation": "appos",
+        "Entity 2": "80"
+    },
+    {
+        "Entity 1": "50",
+        "Relation": "appos",
+        "Entity 2": "256"
+    },
+    {
+        "Entity 1": "50",
+        "Relation": "appos",
+        "Entity 2": "32"
+    },
+    {
+        "Entity 1": "50",
+        "Relation": "appos",
+        "Entity 2": "32"
+    },
+    {
+        "Entity 1": "28",
+        "Relation": "appos",
+        "Entity 2": "4.66"
+    },
+    {
+        "Entity 1": "28",
+        "Relation": "appos",
+        "Entity 2": "26.0"
+    },
+    {
+        "Entity 1": "28",
+        "Relation": "appos",
+        "Entity 2": "4096"
+    },
+    {
+        "Entity 1": "4.75",
+        "Relation": "appos",
+        "Entity 2": "90"
+    },
+    {
+        "Entity 1": "90",
+        "Relation": "appos",
+        "Entity 2": "D"
+    },
+    {
+        "Entity 1": "4.75",
+        "Relation": "appos",
+        "Entity 2": "24.6"
+    },
+    {
+        "Entity 1": "4.75",
+        "Relation": "appos",
+        "Entity 2": "0.2"
+    },
+    {
+        "Entity 1": "4.95",
+        "Relation": "appos",
+        "Entity 2": "0.0"
+    },
+    {
+        "Entity 1": "4.95",
+        "Relation": "appos",
+        "Entity 2": "4.67"
+    },
+    {
+        "Entity 1": "4.95",
+        "Relation": "appos",
+        "Entity 2": "25.3"
+    },
+    {
+        "Entity 1": "25.7",
+        "Relation": "appos",
+        "Entity 2": "embedding"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sinusoids"
+    },
+    {
+        "Entity 1": "25.7",
+        "Relation": "appos",
+        "Entity 2": "4.92"
+    },
+    {
+        "Entity 1": "25.7",
+        "Relation": "appos",
+        "Entity 2": "25.7"
+    },
+    {
+        "Entity 1": "25.7",
+        "Relation": "appos",
+        "Entity 2": "4096"
+    },
+    {
+        "Entity 1": "25.7",
+        "Relation": "appos",
+        "Entity 2": "16"
+    },
+    {
+        "Entity 1": "25.7",
+        "Relation": "appos",
+        "Entity 2": "K"
+    },
+    {
+        "Entity 1": "25.7",
+        "Relation": "appos",
+        "Entity 2": "set"
+    },
+    {
+        "Entity 1": "set",
+        "Relation": "appos",
+        "Entity 2": "newstest2013"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "search"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "section"
+    },
+    {
+        "Entity 1": "present",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "present",
+        "Relation": "dobj",
+        "Entity 2": "results"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "rows",
+        "Relation": "appos",
+        "Entity 2": "A"
+    },
+    {
+        "Entity 1": "vary",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "vary",
+        "Relation": "dobj",
+        "Entity 2": "number"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "keeping",
+        "Relation": "dobj",
+        "Entity 2": "amount"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "constant"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "3.2.2"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "setting"
+    },
+    {
+        "Entity 1": "drops",
+        "Relation": "nsubj",
+        "Entity 2": "quality"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "rows",
+        "Relation": "appos",
+        "Entity 2": "B"
+    },
+    {
+        "Entity 1": "observe",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "reducing",
+        "Relation": "dobj",
+        "Entity 2": "size"
+    },
+    {
+        "Entity 1": "hurts",
+        "Relation": "nsubj",
+        "Entity 2": "dk"
+    },
+    {
+        "Entity 1": "hurts",
+        "Relation": "dobj",
+        "Entity 2": "quality"
+    },
+    {
+        "Entity 1": "suggests",
+        "Relation": "nsubj",
+        "Entity 2": "This"
+    },
+    {
+        "Entity 1": "determining",
+        "Relation": "dobj",
+        "Entity 2": "compatibility"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "function"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "product"
+    },
+    {
+        "Entity 1": "observe",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "rows"
+    },
+    {
+        "Entity 1": "rows",
+        "Relation": "appos",
+        "Entity 2": "C"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "that"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "dropout"
+    },
+    {
+        "Entity 1": "avoiding",
+        "Relation": "dobj",
+        "Entity 2": "fitting"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "row"
+    },
+    {
+        "Entity 1": "replace",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "replace",
+        "Relation": "dobj",
+        "Entity 2": "encoding"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "embeddings"
+    },
+    {
+        "Entity 1": "observe",
+        "Relation": "dobj",
+        "Entity 2": "results"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "generalize",
+        "Relation": "nsubj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "performed",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "performed",
+        "Relation": "dobj",
+        "Entity 2": "experiments"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "parsing"
+    },
+    {
+        "Entity 1": "presents",
+        "Relation": "nsubj",
+        "Entity 2": "task"
+    },
+    {
+        "Entity 1": "presents",
+        "Relation": "dobj",
+        "Entity 2": "challenges"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "output"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "constraints"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "been",
+        "Relation": "nsubj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "art"
+    },
+    {
+        "Entity 1": "attain",
+        "Relation": "dobj",
+        "Entity 2": "results"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "regimes"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "dobj",
+        "Entity 2": "transformer"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "dmodel"
+    },
+    {
+        "Entity 1": "transformer",
+        "Relation": "appos",
+        "Entity 2": "1024"
+    },
+    {
+        "Entity 1": "Journal",
+        "Relation": "appos",
+        "Entity 2": "WSJ"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "portion"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Treebank"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "dobj",
+        "Entity 2": "sentences"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "trained",
+        "Relation": "dobj",
+        "Entity 2": "it"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "setting"
+    },
+    {
+        "Entity 1": "using",
+        "Relation": "dobj",
+        "Entity 2": "confidence"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "sentences"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "["
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "37"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "]"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "vocabulary"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "tokens"
+    },
+    {
+        "Entity 1": "setting",
+        "Relation": "nsubj",
+        "Entity 2": "WSJ"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "tokens"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "setting"
+    },
+    {
+        "Entity 1": "performed",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "performed",
+        "Relation": "dobj",
+        "Entity 2": "number"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "experiments"
+    },
+    {
+        "Entity 1": "select",
+        "Relation": "dobj",
+        "Entity 2": "dropout"
+    },
+    {
+        "Entity 1": "dropout",
+        "Relation": "appos",
+        "Entity 2": "section"
+    },
+    {
+        "Entity 1": "learning",
+        "Relation": "dobj",
+        "Entity 2": "rates"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "set"
+    },
+    {
+        "Entity 1": "remained",
+        "Relation": "nsubj",
+        "Entity 2": "parameters"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "German"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "During",
+        "Relation": "pobj",
+        "Entity 2": "inference"
+    },
+    {
+        "Entity 1": "generalizes",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "we",
+        "Relation": "appos",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "generalizes",
+        "Relation": "nsubj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "parsing"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "Results"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "Section"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "WSJ"
+    },
+    {
+        "Entity 1": "Section",
+        "Relation": "appos",
+        "Entity 2": "WSJ"
+    },
+    {
+        "Entity 1": "WSJ",
+        "Relation": "appos",
+        "Entity 2": "2006"
+    },
+    {
+        "Entity 1": "WSJ",
+        "Relation": "appos",
+        "Entity 2": "al"
+    },
+    {
+        "Entity 1": "WSJ",
+        "Relation": "appos",
+        "Entity 2": "2013"
+    },
+    {
+        "Entity 1": "WSJ",
+        "Relation": "appos",
+        "Entity 2": "2016"
+    },
+    {
+        "Entity 1": "WSJ",
+        "Relation": "appos",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "WSJ"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "al"
+    },
+    {
+        "Entity 1": "WSJ",
+        "Relation": "appos",
+        "Entity 2": "2013"
+    },
+    {
+        "Entity 1": "Huang",
+        "Relation": "appos",
+        "Entity 2": "2009"
+    },
+    {
+        "Entity 1": "Vinyals",
+        "Relation": "appos",
+        "Entity 2": "2014"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "al"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "2015"
+    },
+    {
+        "Entity 1": "al",
+        "Relation": "appos",
+        "Entity 2": "2016"
+    },
+    {
+        "Entity 1": "generative",
+        "Relation": "dobj",
+        "Entity 2": "93.3"
+    },
+    {
+        "Entity 1": "increased",
+        "Relation": "dobj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "length"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "dobj",
+        "Entity 2": "size"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "21"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "WSJ"
+    },
+    {
+        "Entity 1": "show",
+        "Relation": "nsubj",
+        "Entity 2": "results"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Table"
+    },
+    {
+        "Entity 1": "despite",
+        "Relation": "pobj",
+        "Entity 2": "lack"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "tuning"
+    },
+    {
+        "Entity 1": "tuning",
+        "Relation": "dobj",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "yielding",
+        "Relation": "dobj",
+        "Entity 2": "results"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "exception"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Grammar"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "contrast"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "sequence"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "pobj",
+        "Entity 2": "37"
+    },
+    {
+        "Entity 1": "outperforms",
+        "Relation": "nsubj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "outperforms",
+        "Relation": "dobj",
+        "Entity 2": "Parser"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "set"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sentences"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "work"
+    },
+    {
+        "Entity 1": "presented",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "presented",
+        "Relation": "dobj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "Transformer",
+        "Relation": "appos",
+        "Entity 2": "model"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "replacing",
+        "Relation": "dobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "decoder"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "For",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "architectures"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "layers"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "German"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "French"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "On",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "achieve",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "achieve",
+        "Relation": "dobj",
+        "Entity 2": "state"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "art"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "task"
+    },
+    {
+        "Entity 1": "outperforms",
+        "Relation": "dobj",
+        "Entity 2": "ensembles"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "about",
+        "Relation": "pobj",
+        "Entity 2": "future"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "apply",
+        "Relation": "dobj",
+        "Entity 2": "them"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "tasks"
+    },
+    {
+        "Entity 1": "plan",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "extend",
+        "Relation": "dobj",
+        "Entity 2": "Transformer"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "problems"
+    },
+    {
+        "Entity 1": "involving",
+        "Relation": "dobj",
+        "Entity 2": "input"
+    },
+    {
+        "Entity 1": "than",
+        "Relation": "pobj",
+        "Entity 2": "text"
+    },
+    {
+        "Entity 1": "investigate",
+        "Relation": "dobj",
+        "Entity 2": "local"
+    },
+    {
+        "Entity 1": "restricted",
+        "Relation": "dobj",
+        "Entity 2": "mechanisms"
+    },
+    {
+        "Entity 1": "handle",
+        "Relation": "dobj",
+        "Entity 2": "inputs"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "images"
+    },
+    {
+        "Entity 1": "sequential",
+        "Relation": "nsubj",
+        "Entity 2": "generation"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "ours"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "code"
+    },
+    {
+        "Entity 1": "used",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "evaluate",
+        "Relation": "dobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "tensorflow"
+    },
+    {
+        "Entity 1": "tensorflow",
+        "Relation": "appos",
+        "Entity 2": "tensor2tensor"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "Kalchbrenner"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "comments"
+    },
+    {
+        "Entity 1": "References",
+        "Relation": "appos",
+        "Entity 2": "["
+    },
+    {
+        "Entity 1": "References",
+        "Relation": "appos",
+        "Entity 2": "Ba"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1607.06450"
+    },
+    {
+        "Entity 1": "CoRR",
+        "Relation": "appos",
+        "Entity 2": "abs/1409.0473"
+    },
+    {
+        "Entity 1": "abs/1409.0473",
+        "Relation": "appos",
+        "Entity 2": "2014"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "architectures"
+    },
+    {
+        "Entity 1": "CoRR",
+        "Relation": "appos",
+        "Entity 2": "abs/1703.03906"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "reading"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1601.06733"
+    },
+    {
+        "Entity 1": "Learning",
+        "Relation": "dobj",
+        "Entity 2": "representations"
+    },
+    {
+        "Entity 1": "using",
+        "Relation": "dobj",
+        "Entity 2": "decoder"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "CoRR",
+        "Relation": "appos",
+        "Entity 2": "abs/1406.1078"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "convolutions"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "networks"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "modeling"
+    },
+    {
+        "Entity 1": "CoRR",
+        "Relation": "appos",
+        "Entity 2": "abs/1412.3555"
+    },
+    {
+        "Entity 1": "8",
+        "Relation": "appos",
+        "Entity 2": "Dyer"
+    },
+    {
+        "Entity 1": "Dyer",
+        "Relation": "appos",
+        "Entity 2": "Kuncoro"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Proc"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "."
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "NAACL"
+    },
+    {
+        "Entity 1": "sequence",
+        "Relation": "dobj",
+        "Entity 2": "learning"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1705.03122v2"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "networks"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1308.0850"
+    },
+    {
+        "Entity 1": "arXiv:1308.0850",
+        "Relation": "appos",
+        "Entity 2": "2013"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "appos",
+        "Entity 2": "He"
+    },
+    {
+        "Entity 1": "He",
+        "Relation": "appos",
+        "Entity 2": "Zhang"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "recognition"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Proceedings"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Conference"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "Vision"
+    },
+    {
+        "Entity 1": "770\u2013778",
+        "Relation": "appos",
+        "Entity 2": "2016"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "nets"
+    },
+    {
+        "Entity 1": "flow",
+        "Relation": "appos",
+        "Entity 2": "difficulty"
+    },
+    {
+        "Entity 1": "learning",
+        "Relation": "dobj",
+        "Entity 2": "dependencies"
+    },
+    {
+        "Entity 1": "dependencies",
+        "Relation": "appos",
+        "Entity 2": "2001"
+    },
+    {
+        "Entity 1": "computation",
+        "Relation": "appos",
+        "Entity 2": "9(8):1735\u20131780"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "annotations"
+    },
+    {
+        "Entity 1": "across",
+        "Relation": "pobj",
+        "Entity 2": "languages"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Proceedings"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Conference"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "Methods"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Processing"
+    },
+    {
+        "Entity 1": "Exploring",
+        "Relation": "dobj",
+        "Entity 2": "limits"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "modeling"
+    },
+    {
+        "Entity 1": "arXiv:1602.02410",
+        "Relation": "appos",
+        "Entity 2": "2016"
+    },
+    {
+        "Entity 1": "replace",
+        "Relation": "nsubj",
+        "Entity 2": "memory"
+    },
+    {
+        "Entity 1": "replace",
+        "Relation": "dobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Advances"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Systems"
+    },
+    {
+        "Entity 1": "Systems",
+        "Relation": "appos",
+        "Entity 2": "NIPS"
+    },
+    {
+        "Entity 1": "learn",
+        "Relation": "nsubj",
+        "Entity 2": "GPUs"
+    },
+    {
+        "Entity 1": "learn",
+        "Relation": "dobj",
+        "Entity 2": "algorithms"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Conference"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "Representations"
+    },
+    {
+        "Entity 1": "Representations",
+        "Relation": "appos",
+        "Entity 2": "ICLR"
+    },
+    {
+        "Entity 1": "Representations",
+        "Relation": "appos",
+        "Entity 2": "2016"
+    },
+    {
+        "Entity 1": "Kalchbrenner",
+        "Relation": "appos",
+        "Entity 2": "Espeholt"
+    },
+    {
+        "Entity 1": "Kalchbrenner",
+        "Relation": "appos",
+        "Entity 2": "Simonyan"
+    },
+    {
+        "Entity 1": "ray",
+        "Relation": "appos",
+        "Entity 2": "Kavukcuoglu"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "time"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1610.10099v2"
+    },
+    {
+        "Entity 1": "arXiv:1610.10099v2",
+        "Relation": "appos",
+        "Entity 2": "2017"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Conference"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "Representations"
+    },
+    {
+        "Entity 1": "Representations",
+        "Relation": "appos",
+        "Entity 2": "2017"
+    },
+    {
+        "Entity 1": "Adam",
+        "Relation": "appos",
+        "Entity 2": "method"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "optimization"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "ICLR"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "appos",
+        "Entity 2": "Kuchaiev"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "networks"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1703.10722"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1703.03130"
+    },
+    {
+        "Entity 1": "arXiv:1703.03130",
+        "Relation": "appos",
+        "Entity 2": "2017"
+    },
+    {
+        "Entity 1": "sequence",
+        "Relation": "dobj",
+        "Entity 2": "learning"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1511.06114"
+    },
+    {
+        "Entity 1": "arXiv:1511.06114",
+        "Relation": "appos",
+        "Entity 2": "2015"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1508.04025"
+    },
+    {
+        "Entity 1": "arXiv:1508.04025",
+        "Relation": "appos",
+        "Entity 2": "2015"
+    },
+    {
+        "Entity 1": "Building",
+        "Relation": "dobj",
+        "Entity 2": "corpus"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "english"
+    },
+    {
+        "Entity 1": "linguistics",
+        "Relation": "appos",
+        "Entity 2": "19(2):313\u2013330"
+    },
+    {
+        "Entity 1": "McClosky",
+        "Relation": "appos",
+        "Entity 2": "Charniak"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Proceedings"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Conference"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "NAACL"
+    },
+    {
+        "Entity 1": "Parikh",
+        "Relation": "appos",
+        "Entity 2": "T\u00e4ckstr\u00f6m"
+    },
+    {
+        "Entity 1": "Parikh",
+        "Relation": "appos",
+        "Entity 2": "Das"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Methods"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Processing"
+    },
+    {
+        "Entity 1": "Processing",
+        "Relation": "appos",
+        "Entity 2": "2016"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "appos",
+        "Entity 2": "Paulus"
+    },
+    {
+        "Entity 1": "Paulus",
+        "Relation": "appos",
+        "Entity 2": "Xiong"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "summarization"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1705.04304"
+    },
+    {
+        "Entity 1": "arXiv:1705.04304",
+        "Relation": "appos",
+        "Entity 2": "2017"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "appos",
+        "Entity 2": "Petrov"
+    },
+    {
+        "Entity 1": "Learning",
+        "Relation": "dobj",
+        "Entity 2": "annotation"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Proceedings"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Conference"
+    },
+    {
+        "Entity 1": "on",
+        "Relation": "pobj",
+        "Entity 2": "Linguistics"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "ACL"
+    },
+    {
+        "Entity 1": "Using",
+        "Relation": "dobj",
+        "Entity 2": "output"
+    },
+    {
+        "Entity 1": "improve",
+        "Relation": "dobj",
+        "Entity 2": "models"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1608.05859"
+    },
+    {
+        "Entity 1": "arXiv:1608.05859",
+        "Relation": "appos",
+        "Entity 2": "2016"
+    },
+    {
+        "Entity 1": "[",
+        "Relation": "appos",
+        "Entity 2": "Sennrich"
+    },
+    {
+        "Entity 1": "Sennrich",
+        "Relation": "appos",
+        "Entity 2": "Haddow"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "words"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "units"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1508.07909"
+    },
+    {
+        "Entity 1": "arXiv:1508.07909",
+        "Relation": "appos",
+        "Entity 2": "2015"
+    },
+    {
+        "Entity 1": "Le",
+        "Relation": "appos",
+        "Entity 2": "Hinton"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "experts"
+    },
+    {
+        "Entity 1": "networks",
+        "Relation": "appos",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "Srivastava",
+        "Relation": "appos",
+        "Entity 2": "Salakhutdi-"
+    },
+    {
+        "Entity 1": "Salakhutdi-",
+        "Relation": "appos",
+        "Entity 2": "nov"
+    },
+    {
+        "Entity 1": "Dropout",
+        "Relation": "appos",
+        "Entity 2": "way"
+    },
+    {
+        "Entity 1": "prevent",
+        "Relation": "dobj",
+        "Entity 2": "networks"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Research"
+    },
+    {
+        "Entity 1": "Research",
+        "Relation": "appos",
+        "Entity 2": "15(1):1929\u20131958"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "end"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Cortes"
+    },
+    {
+        "Entity 1": "pages",
+        "Relation": "nsubj",
+        "Entity 2": "Lawrence"
+    },
+    {
+        "Entity 1": "Lawrence",
+        "Relation": "appos",
+        "Entity 2": "Lee"
+    },
+    {
+        "Entity 1": "Garnett",
+        "Relation": "appos",
+        "Entity 2": "editors"
+    },
+    {
+        "Entity 1": "editors",
+        "Relation": "appos",
+        "Entity 2": "Advances"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Systems"
+    },
+    {
+        "Entity 1": "Associates",
+        "Relation": "appos",
+        "Entity 2": "Inc."
+    },
+    {
+        "Entity 1": "35",
+        "Relation": "appos",
+        "Entity 2": "Sutskever"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "networks"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Advances"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Systems"
+    },
+    {
+        "Entity 1": "3104\u20133112",
+        "Relation": "appos",
+        "Entity 2": "2014"
+    },
+    {
+        "Entity 1": "Rethinking",
+        "Relation": "dobj",
+        "Entity 2": "architecture"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "vision"
+    },
+    {
+        "Entity 1": "CoRR",
+        "Relation": "appos",
+        "Entity 2": "abs/1512.00567"
+    },
+    {
+        "Entity 1": "as",
+        "Relation": "pobj",
+        "Entity 2": "language"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Advances"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "Systems"
+    },
+    {
+        "Entity 1": "Bridging",
+        "Relation": "dobj",
+        "Entity 2": "gap"
+    },
+    {
+        "Entity 1": "between",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "nsubj",
+        "Entity 2": "arXiv"
+    },
+    {
+        "Entity 1": "preprint",
+        "Relation": "dobj",
+        "Entity 2": "arXiv:1609.08144"
+    },
+    {
+        "Entity 1": "arXiv:1609.08144",
+        "Relation": "appos",
+        "Entity 2": "2016"
+    },
+    {
+        "Entity 1": "39",
+        "Relation": "appos",
+        "Entity 2": "Zhou"
+    },
+    {
+        "Entity 1": "Zhou",
+        "Relation": "appos",
+        "Entity 2": "Wang"
+    },
+    {
+        "Entity 1": "with",
+        "Relation": "pobj",
+        "Entity 2": "connections"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "translation"
+    },
+    {
+        "Entity 1": "CoRR",
+        "Relation": "appos",
+        "Entity 2": "abs/1606.04199"
+    },
+    {
+        "Entity 1": "parsing",
+        "Relation": "nsubj",
+        "Entity 2": "constituent"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Proceedings"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "Meeting"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "ACL"
+    },
+    {
+        "Entity 1": "In",
+        "Relation": "pobj",
+        "Entity 2": "Volume"
+    },
+    {
+        "Entity 1": "Volume",
+        "Relation": "appos",
+        "Entity 2": "Papers"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "Visualizations"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "It"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "spirit"
+    },
+    {
+        "Entity 1": "passed",
+        "Relation": "nsubj",
+        "Entity 2": "majority"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "governments"
+    },
+    {
+        "Entity 1": "passed",
+        "Relation": "dobj",
+        "Entity 2": "laws"
+    },
+    {
+        "Entity 1": "since",
+        "Relation": "pobj",
+        "Entity 2": "2009"
+    },
+    {
+        "Entity 1": "making",
+        "Relation": "dobj",
+        "Entity 2": "registration"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "It"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "spirit"
+    },
+    {
+        "Entity 1": "passed",
+        "Relation": "nsubj",
+        "Entity 2": "majority"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "governments"
+    },
+    {
+        "Entity 1": "passed",
+        "Relation": "dobj",
+        "Entity 2": "laws"
+    },
+    {
+        "Entity 1": "since",
+        "Relation": "pobj",
+        "Entity 2": "2009"
+    },
+    {
+        "Entity 1": "making",
+        "Relation": "dobj",
+        "Entity 2": "registration"
+    },
+    {
+        "Entity 1": "Figure",
+        "Relation": "appos",
+        "Entity 2": "example"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "mechanism"
+    },
+    {
+        "Entity 1": "following",
+        "Relation": "pobj",
+        "Entity 2": "dependencies"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "6"
+    },
+    {
+        "Entity 1": "attend",
+        "Relation": "nsubj",
+        "Entity 2": "Many"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "dependency"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "verb"
+    },
+    {
+        "Entity 1": "completing",
+        "Relation": "dobj",
+        "Entity 2": "phrase"
+    },
+    {
+        "Entity 1": "shown",
+        "Relation": "nsubj",
+        "Entity 2": "Attentions"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "word"
+    },
+    {
+        "Entity 1": "represent",
+        "Relation": "nsubj",
+        "Entity 2": "colors"
+    },
+    {
+        "Entity 1": "represent",
+        "Relation": "dobj",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "color"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "Law"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "application"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "dobj",
+        "Entity 2": "what"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "opinion"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "Law"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "application"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "dobj",
+        "Entity 2": "what"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "opinion"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "Law"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "application"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "dobj",
+        "Entity 2": "what"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "opinion"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "Law"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "application"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "dobj",
+        "Entity 2": "what"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "opinion"
+    },
+    {
+        "Entity 1": "Figure",
+        "Relation": "appos",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "6"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "resolution"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "head"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "word"
+    },
+    {
+        "Entity 1": "word",
+        "Relation": "appos",
+        "Entity 2": "its"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "are",
+        "Relation": "nsubj",
+        "Entity 2": "attentions"
+    },
+    {
+        "Entity 1": "for",
+        "Relation": "pobj",
+        "Entity 2": "word"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "Law"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "application"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "dobj",
+        "Entity 2": "what"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "opinion"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "Law"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "application"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "dobj",
+        "Entity 2": "what"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "opinion"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "Law"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "application"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "dobj",
+        "Entity 2": "what"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "opinion"
+    },
+    {
+        "Entity 1": "EOS",
+        "Relation": "appos",
+        "Entity 2": "<"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "Law"
+    },
+    {
+        "Entity 1": "be",
+        "Relation": "nsubj",
+        "Entity 2": "application"
+    },
+    {
+        "Entity 1": "is",
+        "Relation": "nsubj",
+        "Entity 2": "this"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "dobj",
+        "Entity 2": "what"
+    },
+    {
+        "Entity 1": "missing",
+        "Relation": "nsubj",
+        "Entity 2": "we"
+    },
+    {
+        "Entity 1": "in",
+        "Relation": "pobj",
+        "Entity 2": "opinion"
+    },
+    {
+        "Entity 1": "exhibit",
+        "Relation": "nsubj",
+        "Entity 2": "Many"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "Figure",
+        "Relation": "appos",
+        "Entity 2": "exhibit"
+    },
+    {
+        "Entity 1": "exhibit",
+        "Relation": "dobj",
+        "Entity 2": "behaviour"
+    },
+    {
+        "Entity 1": "seems",
+        "Relation": "nsubj",
+        "Entity 2": "that"
+    },
+    {
+        "Entity 1": "to",
+        "Relation": "pobj",
+        "Entity 2": "structure"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "sentence"
+    },
+    {
+        "Entity 1": "give",
+        "Relation": "nsubj",
+        "Entity 2": "We"
+    },
+    {
+        "Entity 1": "give",
+        "Relation": "dobj",
+        "Entity 2": "examples"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "from",
+        "Relation": "pobj",
+        "Entity 2": "attention"
+    },
+    {
+        "Entity 1": "at",
+        "Relation": "pobj",
+        "Entity 2": "layer"
+    },
+    {
+        "Entity 1": "of",
+        "Relation": "pobj",
+        "Entity 2": "6"
+    },
+    {
+        "Entity 1": "learned",
+        "Relation": "nsubj",
+        "Entity 2": "heads"
+    },
+    {
+        "Entity 1": "perform",
+        "Relation": "dobj",
+        "Entity 2": "tasks"
+    }
+]
