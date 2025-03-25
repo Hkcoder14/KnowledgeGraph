@@ -26,3 +26,6 @@ def process_all_pdfs():
             f.write(text)
         print(f" processed text from {filename}")
 
+# Run the extraction
+if __name__ == "__main__":
+    process_all_pdfs()
