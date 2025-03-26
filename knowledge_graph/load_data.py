@@ -3,7 +3,7 @@ import json
 
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASS = "Omegarrh@1407"
+NEO4J_PASS = ""
 
 #connect to DB
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASS))
