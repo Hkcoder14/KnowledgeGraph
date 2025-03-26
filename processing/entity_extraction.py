@@ -8,12 +8,31 @@ DATA_FOL = "/Volumes/Personal/Knowledge-Graph/data/processed_texts"
 OUTPUT_FOL = "/Volumes/Personal/Knowledge-Graph/data/entities.json"
 
 
+# 🔹 Manually Define AI/ML-Specific Terms (to catch missing entities)
+AI_TERMS = {"BERT", "Transformer", "Fine-tuning", "Masked LM", "Language Model", "Pre-training", "Self-Attention", 
+            "Multi-Head Attention", "WordPiece", "Tokenization", "Hidden States", "Next Sentence Prediction"}
+
 def extract_entities(text):
     doc = nlp(text)
     entities = []
+
     for ent in doc.ents:
         entities.append({"text": ent.text, "label": ent.label_})
+
+    # 🔹 Capture noun chunks (like "BERT Model", "Masked Language Model") if spaCy missed them
+    for chunk in doc.noun_chunks:
+        if chunk.text not in [e["text"] for e in entities]:  # Avoid duplicates
+            entities.append({"text": chunk.text, "label": "CONCEPT"})  # Generic label for unknown terms
+
+    # 🔹 Ensure AI-specific terms are always included
+    for term in AI_TERMS:
+        if term in text and term not in [e["text"] for e in entities]:
+            entities.append({"text": term, "label": "AI_TERM"})
+
     return entities
+
+
+
 
 def process_all_text_files():
 

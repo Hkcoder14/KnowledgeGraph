@@ -13,14 +13,12 @@ def create_entity(tx, entity_text, entity_label):
     tx.run(query, name = entity_text, label = entity_label)
 
 def create_relationships(tx, entity1, relation, entity2):
-
-    query = """
-    MATCH (e1:Entity {name: $entity1})
-    MATCH (e2:Entity {name: $entity2})
-    MERGE (e1)-[:RELATION {type: $relation}]->(e2)
+    query = f"""
+    MATCH (e1:Entity {{name: $entity1}})
+    MATCH (e2:Entity {{name: $entity2}})
+    MERGE (e1)-[:`{relation}`]->(e2)
     """
-
-    tx.run(query, entity1 = entity1, relation = relation, entity2 = entity2)
+    tx.run(query, entity1=entity1, entity2=entity2)
 
 def load_data():
     
@@ -35,7 +33,7 @@ def load_data():
         with open("data/relations.json", "r") as f:
             relations = json.load(f)
             for relation in relations:
-                session.execute_write(create_relationships, relation["Entity 1"], relation["Relation"], relation["Entity 2"])
+                session.execute_write(create_relationships, relation["Entity1"], relation["Relation"], relation["Entity2"])
             print(f" Loaded {len(relations)} relations into Neo4j.")
 
 if __name__ == "__main__":
